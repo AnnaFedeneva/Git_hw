@@ -1,1 +1,14 @@
+Кейс 1:
+Ввести в username anna
+Ввести в поле password password23
+Убедиться, что отображается сообщение с ошибкой о некорректном пароле
 
+ОР:
+Отображается сообщение с ошибкой: Password should contain at least one character in upper case
+
+ФР:
+Отображается сообщение об успешной регистрации: Successfully registered! Please, click Back to return on login page
+
+
+Google Chrome 
+Версия 124.0.6367.201 (Официальная сборка), (64 бит)
